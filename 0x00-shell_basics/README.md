@@ -1,1 +1,1 @@
-where am i
+display current directory contents in long format
