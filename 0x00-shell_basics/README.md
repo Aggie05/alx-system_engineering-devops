@@ -1,1 +1,1 @@
-Write a script that sets permission to the file hello
+write a script that set the mode of the file hello
