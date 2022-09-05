@@ -1,1 +1,1 @@
-displaying current directory content in long format
+Shell i/o redirections and filters
